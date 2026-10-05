@@ -1,0 +1,68 @@
+{
+  "00-welcome": {
+    "us": "00-welcome"
+  },
+  "01-new-terminal": {
+    "us": "01-new-terminal"
+  },
+  "01.2-pipenv": {
+    "us": "01.2-pipenv"
+  },
+  "02-install": {
+    "us": "02-install"
+  },
+  "02.1-create-a-script": {
+    "us": "02.1-create-a-script"
+  },
+  "02.2-import": {
+    "us": "02.2-import"
+  },
+  "03-datasets": {
+    "us": "03-datasets"
+  },
+  "04-Series": {
+    "us": "04-Series"
+  },
+  "04.1-date-range": {
+    "us": "04.1-date-range"
+  },
+  "04.2-series-apply": {
+    "us": "04.2-series-apply"
+  },
+  "05-dataframes": {
+    "us": "05-dataframes"
+  },
+  "05.1-dataframe-dict": {
+    "us": "05.1-dataframe-dict"
+  },
+  "05.2-dataframe-iloc": {
+    "us": "05.2-dataframe-iloc"
+  },
+  "05.3-dataframe-head": {
+    "us": "05.3-dataframe-head"
+  },
+  "05.4-dataframe-tail": {
+    "us": "05.4-dataframe-tail"
+  },
+  "05.5-print-columns": {
+    "us": "05.5-print-columns"
+  },
+  "05.6-loc-function": {
+    "us": "05.6-loc-function"
+  },
+  "05.7-filter-and-count": {
+    "us": "05.7-filter-and-count"
+  },
+  "06-clean-datasets": {
+    "us": "06-clean-datasets"
+  },
+  "06.1-remove-column": {
+    "us": "06.1-remove-column"
+  },
+  "06.2-value-counts": {
+    "us": "06.2-value-counts"
+  },
+  "06.3-group-by": {
+    "us": "06.3-group-by"
+  }
+}
